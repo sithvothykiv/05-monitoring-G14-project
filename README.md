@@ -26,23 +26,3 @@ Work through them in order:
 13. [Docker Compose](lessons/13-docker-compose.md) - Running everything together
 14. [Next Steps](lessons/14-next-steps.md) - OpenTelemetry, alerting, frameworks to learn more
 
-
-## Homework
-
-- [Homework](../cohorts/2026/05-monitoring/homework.md)
-
-
-## Original workshop recording
-
-This module was taught as a live workshop, which we chopped into the
-per-lesson videos above. To watch the full uncut recording:
-
-- [Monitoring LLM Applications: Traces, Feedback, and Production Quality](https://www.youtube.com/watch?v=ImY5-Q97sRw)
-
-
-## Older content
-
-Earlier cohorts ran this module with a different stack:
-
-- [2024 edition](../cohorts/2024/04-monitoring/)
-- [2025 edition](../cohorts/2025/04-monitoring/)
